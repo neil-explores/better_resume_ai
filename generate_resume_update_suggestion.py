@@ -28,7 +28,7 @@ Candidate Resume:
 """
 
 response = client.chat.completions.create(
-    model="gpt-5-mini",
+    model="gpt-5",
     messages=[
         {"role": "system", "content": "You are a professional resume editor."},
         {"role": "user", "content": prompt}

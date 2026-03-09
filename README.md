@@ -9,6 +9,10 @@ Landing Tech interviews is tough, especially with all the AI filters being used 
 - This program assumes your existing resume is written in markdown format
 - You must have an API key on teh OpenAI Platform
 
+## Model Used
+- The app currently uses `gpt-5`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models, like the more cost-effective model `gpt-5-mini`. 
+- My observation is that `gpt-5` is a ton better at this task and is worth the additional cost (i.e. for a small job posting text and a resume that is a couple of pages: we are talking a difference of a few cents per API call). 
+
 ## Process
 1. Clone this repo.
 2. Within **generate_resume_update_suggestion.py**, replace `"ENTER-OPENAI-API-KEY-HERE"` with your actual OpenAI Platform API key.
