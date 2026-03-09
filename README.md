@@ -1,5 +1,5 @@
 # better_resume_ai
-Make your existing resume *better* with the help of AI: further tailor your existing resume to a specific job posting.
+Make your existing resume **better** with the help of AI: further tailor your existing resume to a specific job posting.
 
 ## Description
 Landing Tech interviews is tough, especially with all the AI filters being used by human resources these days. Use AI to help provide you suggestions on tailoring your existing resume to a particular job posting.
