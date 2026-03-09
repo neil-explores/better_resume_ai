@@ -12,7 +12,7 @@ Landing Tech interviews is tough, especially with all the AI filters being used 
 ## Model Used
 The app currently uses `gpt-5`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models, like the more cost-effective model `gpt-5-mini`. 
 
-## Cost
+## Estimate OpenAI Costs
 [Pricing Located Here](https://developers.openai.com/api/docs/pricing)
 
 Pricing is all about the amount of `tokens` within the input and output.
