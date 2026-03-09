@@ -2,7 +2,7 @@
 Make your existing resume **better** with the help of AI: further tailor your existing resume to a specific job posting.
 
 ## Description
-Landing Tech interviews is tough, especially with all the AI filters being used by human resources these days. Use AI to help provide you suggestions on tailoring your existing resume to a particular job posting.
+Human resources often get tons of submitted applications, so they use tools to filter down applications before a human even looks at them. We can improve your chances of getting past these filters and landing you an interview.
 
 ## Prerequisites
 - `python` version 3
