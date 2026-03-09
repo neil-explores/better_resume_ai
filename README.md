@@ -10,7 +10,7 @@ Human resources often get tons of submitted applications, so they use tools to f
 - You must have an API key on the OpenAI Platform
 
 ## Model Used
-The app currently uses `gpt-5`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models, like the more cost-effective model `gpt-5-mini`. 
+The app currently uses `gpt-5.4`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models.
 
 ## Estimate OpenAI Costs
 [Pricing Located Here](https://developers.openai.com/api/docs/pricing)
