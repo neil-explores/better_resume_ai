@@ -21,7 +21,7 @@ To get a better estimate of your pricing per API call, use the [OpenAI Tokenizer
 
 For example, within the tokenizer tool, plug in all your prompt text. 
 - For me, my prompt/input text was a few thousand tokens. 
-- Note that the pricings page is per 1 million tokens, so my Input cost of a few thousand tokens will be a fraction of what is listed.
+- Note that the pricings page is per 1 million tokens, so my input cost of a few thousand tokens will be a fraction of what is listed. Nice!
 
 ## Process
 1. Clone this repo.
