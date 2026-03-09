@@ -27,8 +27,8 @@ For example, within the tokenizer tool, plug in all your prompt text.
 1. Clone this repo.
 2. Within **generate_resume_update_suggestion.py**, replace `"ENTER-OPENAI-API-KEY-HERE"` with your actual OpenAI Platform API key.
 3. Copy/Paste the job description text within **job.txt**.
-4. Move your resume into this project, and rename the resume file to: **no_pii_data_resume.md**.
-5. Remove all your PII information from your resume! We don't want the prompt we send to openai to include your PII information!.
+4. Copy/Paste your markdown resume text within **no_pii_data_resume.md**.
+5. **IMPORTANT SECURITY POINT:** Remove all your PII information from your resume! We don't want the prompt we send to openai to include your PII information!.
 6. Create the virtual environment and install dependencies.
    
        python3 -m venv venv
