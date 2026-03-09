@@ -10,7 +10,7 @@ Landing Tech interviews is tough, especially with all the AI filters being used 
 - You must have an API key on the OpenAI Platform
 
 ## Model Used
-- The app currently uses `gpt-5`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models, like the more cost-effective model `gpt-5-mini`. 
+The app currently uses `gpt-5`. However, feel free to swap out the model within **generate_resume_update_suggestion.py** with other models, like the more cost-effective model `gpt-5-mini`. 
 
 ## Cost
 [Pricing Located Here](https://developers.openai.com/api/docs/pricing)
@@ -18,9 +18,10 @@ Landing Tech interviews is tough, especially with all the AI filters being used 
 Pricing is all about the amount of `tokens` within the input and output.
 
 To get a better estimate of your pricing per API call, use the [OpenAI Tokenizer tool](https://platform.openai.com/tokenizer) to see how many tokens you can expect to use for your **input**.
-- For example, within the tokenizer tool, plug in all your prompt text. 
+
+For example, within the tokenizer tool, plug in all your prompt text. 
 - For me, my prompt/input text was a few thousand tokens. 
-- Notice that the pricings page is per 1 million tokens, so my Input cost of a few thousand tokens will be a fraction of what is listed.
+- Note that the pricings page is per 1 million tokens, so my Input cost of a few thousand tokens will be a fraction of what is listed.
 
 ## Process
 1. Clone this repo.
